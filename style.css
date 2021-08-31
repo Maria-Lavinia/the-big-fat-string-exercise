@@ -1,0 +1,11 @@
+form {
+    display: flex;
+    flex-direction: column;
+    width: 25rem;
+    gap: 10px;
+    margin: 50px auto;
+  }
+  textarea {
+    width: 80%;
+    float: right;
+  }
